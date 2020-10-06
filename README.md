@@ -1,3 +1,4 @@
 # spring cloud 案例
 
-完整笔记: https://blog.csdn.net/weixin_38305440/article/details/102775484
+
+链接：http://note.youdao.com/noteshare?id=88c788d4891c062c399cc3449837b295&sub=B148AFA8792243A281DCC3F42B3DEE3B
